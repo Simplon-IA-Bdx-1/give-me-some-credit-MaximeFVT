@@ -1,3 +1,4 @@
 /handson-ml
 *.csv
 *.env
+*.joblib
