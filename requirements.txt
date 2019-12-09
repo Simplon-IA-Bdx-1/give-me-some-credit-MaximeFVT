@@ -1,5 +1,4 @@
 bigml
-<<<<<<< HEAD
 kaggle
 matplotlib
 rise
@@ -11,9 +10,3 @@ pandas
 numpy
 scipy
 sklearn
-=======
-jupyter_contrib_nbextensions
-kaggle
-papermill
-rise
->>>>>>> 3a63773d157bb94ad54784bb033ca2cc53f19067
